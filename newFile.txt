@@ -1,2 +1,2 @@
-abc 
-def
+newFile
+new content
