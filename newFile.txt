@@ -1,2 +1,4 @@
-newFile
-new content
+Hey, this is new file
+new new file
+abc 
+def
