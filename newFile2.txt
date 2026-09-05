@@ -2,7 +2,3 @@ Hello
 abc
 def
 ghi
-ijk
-lkm
-ujk
-pll
