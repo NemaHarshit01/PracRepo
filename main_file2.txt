@@ -1,1 +1,5 @@
-changed txt in main_file_2
+abc
+def
+&^%
+(*&
+%%$
